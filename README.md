@@ -1,5 +1,4 @@
 # Árbol De Comportamiento
-<img width="273" height="492" alt="Enfoque" src="https://github.com/user-attachments/assets/432e9cce-921e-47e5-9bae-612138a9699a" /><img width="1587" height="623" alt="Jumperin" src="https://github.com/user-attachments/assets/7f702c8c-ea94-43a8-9ec1-c4bf247cfc26" /><img width="1587" height="623" alt="Jumperin" src="https://github.com/user-attachments/assets/7248b7cc-ef91-4284-949e-6f46e23e095a" />
 <img width="692" height="388" alt="GIFMobileGame" src="https://github.com/user-attachments/assets/894ec5a2-a147-4dbb-8c3e-8a5ebeefc11a" />
 Una frase: Gameplay interactivo del juego mobile, con el movimiento del telefono controlas al jugador para poder saltar entre plataformas y llegar mas alto, buscando mantenerte concentrado y ser preciso con los saltos y no caerte para perder.
 ## Cómo jugar
