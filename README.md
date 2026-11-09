@@ -20,5 +20,3 @@ Me encargue de llevar la idea a lo largo del proyecto de nota de mi ramo de vide
 - Diseño de nivel
 - Sonidos
 
-## Créditos y licencia
-[Madera, las plataformas](https://sketchfab.com/3d-models/wood-tile-texture-de22a517c07544eaa2131e8a59a20490)
