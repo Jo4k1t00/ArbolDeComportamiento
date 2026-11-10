@@ -77,9 +77,29 @@ Crear los codigos importantes para este, este son:
 
 <img width="692" height="546" alt="Captura de pantalla 2026-11-10 172158" src="https://github.com/user-attachments/assets/337976a8-25be-4548-8483-0919ff1ddfcd" />
 
-##### EnemyManager
+##### EnemyManager (Codigo para el jugador)
 
 <img width="448" height="332" alt="image" src="https://github.com/user-attachments/assets/9af91cc7-7567-454c-a6c4-de9a1db72517" />
+
+#### MONTAJE
+
+Con estos codigos tendremos que compilarlos a las capsulas o modelos de tus objetos en la escena. 
+
+##### ENEMIGO (Principal objeto)
+
+El enemigo solo tendra el codigo GuardiaBT, debido a que **su estructura de arbol es una composicion todo se encarga de reproducirlo a traves de la sobreescritura de SetupTree de Node a traves de la Programacion Orientada a objetos:**
+
+<img width="252" height="113" alt="image" src="https://github.com/user-attachments/assets/a0dd5ce1-ceba-425d-8989-c42f5f12ed80" />
+
+<img width="710" height="237" alt="image" src="https://github.com/user-attachments/assets/eff23dc9-2a8b-4b50-ba00-5eeb502a2d42" />
+
+##### Jugador (Objeto que interactua con enemigo)
+
+El jugador recibira el daño recibido por el enemigo, **EnemyManager se encargara de que se cumpla la interaccion y destruya el objeto cuando el integer llege a 0:**
+
+<img width="255" height="22" alt="image" src="https://github.com/user-attachments/assets/e4a855fc-80da-480a-ac9e-6e6ecbfad897" />
+
+<img width="706" height="65" alt="image" src="https://github.com/user-attachments/assets/604bb299-4a26-49e2-bb47-b3ed8c9c3797" />
 
 # LISTO, TIENES EL CODIGO HECHO DE UN ENEMIGO PATRULLANDO
 
